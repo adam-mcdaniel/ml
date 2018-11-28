@@ -13,7 +13,7 @@ from kiwi import *
 batches = 40
 
 
-# create training input and output datasets each composed of arrays with 8 pieces of data
+# create training input and output datasets each composed of arrays with 8 pieces of data each
 in_ = model.Dataset(8)
 out = model.Dataset(8)
 
