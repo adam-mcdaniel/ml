@@ -30,7 +30,7 @@ for i in range(batches):
 
 # lambda function of the neural net
 nn = regression.GradientDescent(
-	in(),
+	in_(),
 	out_()
 )
 
