@@ -45,4 +45,4 @@ for i in range(40, 50):
 ```
 
 Although it seems really nice, it's only linear, so there is no deep learning :(
-Also, the KLearning and QLearning examples are experimental, I'm not sure if they worked or not.
+Also, the KLearning example is experimental, I'm not sure if it worked or not; I worked on this months and months ago.
